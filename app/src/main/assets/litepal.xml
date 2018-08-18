@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?><!--
+  ~ Copyright (C) 2018 Baidu, Inc. All Rights Reserved.
+  -->
+<litepal>
+    <dbname value="HansLink"></dbname>
+    <version value="1"></version>
+
+    <list>
+        <mapping class="com.prookie.nettylibrary.litebean.DevicePassword"></mapping>
+    </list>
+    <list>
+        <mapping class="com.prookie.nettylibrary.litebean.DeviceInfo"></mapping>
+    </list>
+</litepal>
